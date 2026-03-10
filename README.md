@@ -1,5 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Shivam
 
+### Data Analyst | SQL | Power BI | Excel
+
+🔹 I analyze business data to uncover trends and improve decision-making  
+🔹 I build KPI dashboards and business intelligence reports  
+🔹 Experienced in SQL, Power BI, Advanced Excel, DAX and Power Query  
+
+📫 Reach me at: mailmejustshivam@gmail.com  
+
+---
+
+## Connect with me
+
+LinkedIn  
+https://www.linkedin.com/in/shivam-shukla-9a53a4283/
+
+GitHub  
+https://github.com/shivamatgit-hub
+
+---
+
+## Languages and Tools
+
+Power BI | SQL | MySQL | Advanced Excel | DAX | Power Query | Git
+
+---
+
+## Featured Analytics Projects
+
+All dashboards and analytics projects mentioned in my resume are available in the pinned repositories below.
 <!--
 **shivamatgit-hub/shivamatgit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
