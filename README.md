@@ -13,7 +13,7 @@
 ## Connect with me
 
 LinkedIn  
-https://www.linkedin.com/in/shivam-shukla-9a53a4283/
+https://www.linkedin.com/in/iamshivamshukla/
 
 GitHub  
 https://github.com/shivamatgit-hub
