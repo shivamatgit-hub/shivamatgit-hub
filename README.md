@@ -12,8 +12,6 @@
 
 ## Connect with me
 
-LinkedIn  
-https://www.linkedin.com/in/iamshivamshukla/
 
 GitHub  
 https://github.com/shivamatgit-hub
