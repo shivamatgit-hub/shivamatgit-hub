@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shivam
 
-### Data Analyst | SQL | Power BI | Excel
+### Data Analyst | Power BI | SQL | Excel
 
 🔹 I analyze business data to uncover trends and improve decision-making  
 🔹 I build KPI dashboards and business intelligence reports  
