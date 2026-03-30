@@ -6,7 +6,6 @@
 🔹 I build KPI dashboards and business intelligence reports  
 🔹 Experienced in SQL, Power BI, Advanced Excel, DAX and Power Query  
 
-📫 Reach me at: mailmejustshivam@gmail.com  
 
 ---
 
